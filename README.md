@@ -1,1 +1,1 @@
-# mediakit-nameserver
+# mediakit-os-wiki
